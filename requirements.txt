@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pinecone
+sentence-transformers
+langchain
+langchain-openai
+langchain-community
+langchain-core
+streamlit

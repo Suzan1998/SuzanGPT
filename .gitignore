@@ -1,0 +1,17 @@
+# Custom environment variable files
+*.env
+.env.*
+
+# Build and execution files
+__pycache__
+.venv
+
+
+
+qa_cache.json
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.DS_Store
